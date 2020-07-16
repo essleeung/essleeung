@@ -4,6 +4,7 @@
 - [Website](www.sharonsmlee.com)
 - [LinkedIn](https://www.linkedin.com/in/sharonl1/)
 - [Twitter](https://twitter.com/sharonsmlee)
+- [Codepen](https://codepen.io/essleeung)
 
 ## Some things about me: 
 - 🌱 I’m currently learning Redux.
